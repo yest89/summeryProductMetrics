@@ -1,0 +1,2 @@
+# summeryProductMetrics
+Find the attached file test-task_dataset_summer_products.cvs with the clothing products dataset. For each product, there are the following fields of interests:      origin_country - country of origin for the products      price - price of the products      rating_count - how many times the product has been rated by user/consumer      rating_five_count - how many times the product has been rated by user/consumer with five stars
